@@ -1107,5 +1107,512 @@
       "documents": false,
       "deadline": false
     }
+  },
+  {
+    "name": "Award of Attendance Scholarship to Girl Students in the Middle Stage of Education",
+    "ministry": "Department of Information & Publicity, Union Territory of Puducherry",
+    "summary": "The scheme aims to increase the enrollment of girls aged 11-14 in the middle stage of education and reduce dropout rates. A scholarship amount of ₹200 per annum per student is disbursed via Direct Benefit Transfer to an Aadhaar-seeded bank account.",
+    "benefits": "Scholarship amount of ₹200/- per annum per student, disbursed directly into Aadhaar-seeded bank account through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS).",
+    "deadline": null,
+    "eligibility": {
+      "min_age": 11,
+      "max_age": 14,
+      "max_family_income": 75000,
+      "states": [
+        "Puducherry"
+      ],
+      "categories": [],
+      "genders": [
+        "Female"
+      ],
+      "education_levels": [
+        "Student studying in Government, Government Aided or Government-recognized Private School in Puducherry"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The applicant should be a citizen of India.",
+        "The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years.",
+        "The applicant should not belong to the Scheduled Caste or Scheduled Tribes Category.",
+        "The applicant must have secured 97% (or above) attendance in the preceding year."
+      ]
+    },
+    "documents": [
+      "Nativity/Citizenship/Residential Certificate, issued by the Officer of the Revenue Department not below the rank of a Deputy Tahsildar.",
+      "Income Certificate.",
+      "Birth Certificate for Proof of Age.",
+      "Stamp-sized Photograph.",
+      "Aadhaar Card.",
+      "Secondary School Leaving Certificate (SSLC) Certificate.",
+      "Public Information Certificate (PIC).",
+      "Attendance Sheet, signed by the competent authority."
+    ],
+    "evidence": {
+      "income": "Income Certificate.",
+      "age": "Birth Certificate for Proof of Age.",
+      "documents": "Nativity/Citizenship/Residential Certificate, issued by the Officer of the Revenue Department not below the rank of a Deputy Tahsildar.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/aasgsmse",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Prime Minister's Scholarship Scheme",
+    "ministry": "Ministry Of Defence",
+    "summary": "The Prime Minister's Scholarship Scheme (PMSS) was introduced from Academic year 2006-07 by the Department of Ex-servicemen Welfare, Ministry of Defence, to encourage technical and post-graduate education for the widows and wards of deceased/ex-service personnel of the Armed Forces. It is funded out of the National Defence Fund and managed by the Kendriya Sainik Board (KSB).",
+    "benefits": "The scholarship is paid annually at ₹2,500/- per month for boys and ₹3,000/- per month for girls. A total of 5,500 slots are available each academic year (2,750 for boys and 2,750 for girls). Scholarships are provided for a duration of two to five years depending on the course, and payments are made via ECS directly into students' bank accounts.",
+    "deadline": "Student should apply online by visiting KSB website www.online.ksb.gov.in latest by 30 Nov.",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": null,
+      "states": [],
+      "categories": [
+        "Category 1 - Wards / Widows of ESM/ Ex-Coast Guard personnel killed in action",
+        "Category 2 - Wards / Widows of ESM/ Ex-Coast Guard personnel disabled in action and boarded out of service with disability attributable to Military/ Coast Guard service",
+        "Category 3 - Wards / Widows of ESM/ Ex-Coast Guard personnel who died while in service for causes attributable to Military / Coast Guard Service",
+        "Category 4 - Wards / Widows of ESM/ Ex-Coast Guard personnel disabled in service with disability attributable to Military/ Coast Guard Service",
+        "Category 5 - Wards / Widows of ESM/ Ex-Coast Guard personnel in receipt of gallantry awards",
+        "Category 6 - Wards / Widows of ESM/ Ex-Coast Guard personnel (PBOR Only)"
+      ],
+      "genders": [
+        "Male",
+        "Female"
+      ],
+      "education_levels": [
+        "1st year of professional degree courses (BE, B.Tech, MBBS, BDS, B.Ed, BBA, BCA, B Pharma, BA.LLB, etc.)",
+        "10+2/ Diploma/ Graduation (as Minimum Educational Qualification)"
+      ],
+      "occupations": [
+        "Student",
+        "Widow",
+        "Dependent Ward of Ex-servicemen/Ex-Coast Guard personnel"
+      ],
+      "min_marks_percent": 60,
+      "other": [
+        "Students who have taken admission in 1st year (except Lateral Entry) are only eligible.",
+        "Master Degree Courses are not eligible for PMSS except MBA / MCA Courses.",
+        "Scholarship can be availed by student for One Course only.",
+        "Students cannot avail scholarship from any other source if the total scholarship amount exceeds the available amount under this scheme.",
+        "Wards of Civilians including Para Military Personnel are NOT ELIGIBLE.",
+        "Students studying in 2nd or subsequent years are not eligible.",
+        "Students studying abroad are not eligible for this scheme.",
+        "No distance learning/vocational course is permitted under PMSS.",
+        "Passing of all subjects in each semester / year in FIRST ATTEMPT is mandatory for continuation of scholarship.",
+        "If a student failed / get RA in any subject, his / her scholarship will be closed forever. He will not be entitled for subsequent instalment of PMSS.",
+        "Student can apply for renewal of scholarship within ONE YEAR from declaration of result if failed."
+      ]
+    },
+    "documents": [
+      "Ex-Servicemen / Ex-Coast Guard Certificate duly filled up and signed by ZSB/Coast Guard HQ as per Annexure-1",
+      "Bonafide Certificate duly filled up correctly and signed by Vice Chancellor/ Principal/ Vice Principal/Dean/Associate Dean/Registrar/Dy Registrar/Director/Dy Director of the Institute/College as per Annexure-2",
+      "Certificate from students bank stating that Aadhaar Card of student linked with his/her bank account number as per Annexure-3",
+      "Matriculation Certificate for verifying the Date of Birth",
+      "Minimum Educational Qualification (MEQ) certificate as applicable (10+2 Marksheet/ Graduation mark sheets of 3 years/ all semesters / Diploma mark sheets of all semesters)",
+      "1st page of Bank Pass Book (preferably SBI/PNB only) clearly showing name and A/c Number of Student and IFS code of the bank (duly printed and not hand written)",
+      "Aadhaar Card of Student",
+      "PPO/ESM Identity Card for Category 6",
+      "Category 1: Copy of Part II Order in case of Army/ Gen form in case of Navy and POR in case of Air Force",
+      "Category 2: Copy of Part II Order in case of Army/ Gen form in case of Navy and POR in case of Air Force",
+      "Category 3: Copy of Part II Order in case of Army/ Gen form in case of Navy and POR in case of Air Force",
+      "Category 4: Copy of Part II Order in case of Army/ Gen form in case of Navy and POR in case of Air Force",
+      "Category 5: Award Certificate along with Gazette Notification",
+      "Category 6: Original PPO or ESM Identity Card to be scanned and uploaded"
+    ],
+    "evidence": {
+      "income": null,
+      "age": "Matriculation Certificate for verifying the Date of Birth.",
+      "documents": "Ex-Servicemen / Ex-Coast Guard Certificate duly filled up and signed by ZSB/Coast Guard HQ as per Annexure-1.",
+      "deadline": "Student should apply online by visiting KSB website www.online.ksb.gov.in latest by 30 Nov."
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/pmss",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",
+    "ministry": "Ministry Of Social Justice and Empowerment",
+    "summary": "A sub-scheme under PM-YASASVI umbrella scheme providing full financial support for top-class college education to OBC, EBC, and DNT students pursuing studies beyond Class XII in notified institutions.",
+    "benefits": "Full tuition fee and non-refundable charges (ceiling ₹2.00 lakhs per annum for private institutions, ₹3.72 lakhs for flying clubs), living expenses of ₹3,000 per month, books and stationery of ₹5,000 per annum, and one-time computer/laptop assistance of ₹45,000. All paid via Direct Benefit Transfer.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "OBC",
+        "EBC",
+        "DNT"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Beyond Class XII"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The benefit of the Scheme will not be provided to more than 2 siblings in a family.",
+        "Students must have secured admission in a full-time prescribed course in any of the notified institutions.",
+        "30% of slots reserved for eligible girl students.",
+        "Preference would be given to OBC students while considering under the scheme.",
+        "In case of more eligible students than slots, scholarship restricted to top students on inter-se merit list based on admission criteria.",
+        "If equal marks for last available slot, preference to student with lower family income."
+      ]
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Passport size photograph",
+      "Educational qualification marksheets/certificates",
+      "Valid Income certificate issued by the competent Authority",
+      "Domicile Certificate",
+      "Caste/Community Certificate issued by the competent authority",
+      "Disability certificate, if applicable",
+      "Bank Account details",
+      "Admission Rank Proof",
+      "Proof of fee details to claim the scholarship",
+      "Any other documents as required"
+    ],
+    "evidence": {
+      "income": "Valid Income certificate issued by the competent Authority",
+      "age": null,
+      "documents": "Educational qualification marksheets/certificates",
+      "deadline": null
+    },
+    "source_url": "https://www.dosje.gov.in/schemes-and-services/pm-yasasvi/",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Post Graduate Indira Gandhi Scholarship For Single Girl Child",
+    "ministry": "Ministry of Education",
+    "summary": "A scholarship scheme by the University Grants Commission (UGC) for girl students admitted to the first year of regular, full-time PG courses who are the only girl child in their family. The fellowship amount is ₹36,200 per annum for the full duration of the PG course (up to two years), with 3,000 fresh scholarships awarded annually.",
+    "benefits": "₹36,200/- per annum for a period of two years only (full duration of a PG course). 3,000 fresh scholarships awarded every year and paid on DBT mode on an annual basis. No additional grant payable for hostel charges and medical charges.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": 30,
+      "max_family_income": null,
+      "states": [],
+      "categories": [],
+      "genders": [
+        "Female"
+      ],
+      "education_levels": [
+        "Master's Degree",
+        "Post Graduate"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The applicant must be a citizen of India.",
+        "The applicant must be the only girl child in the family.",
+        "Girl students without any brothers or twin/fraternal daughters may also apply.",
+        "Must have taken admission to a regular, full-time first-year Master's Degree course in a designated university or post-graduate college.",
+        "Must be pursuing a non-professional course and taking regular classes from a recognized institution.",
+        "Must not be pursuing education through distance education mode."
+      ]
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Proof of admission into a recognized Master's degree course in an institute located in India and recognized by the UGC",
+      "Joining report (as per format given in Annexure-I)",
+      "Affidavit regarding Single girl child status (as per format given in Annexure-II)",
+      "Copy of the Bank Passbook",
+      "Birth Certificate or Class 10th Marksheet"
+    ],
+    "evidence": {
+      "income": null,
+      "age": "The age of the applicant should not be more than 30 years at the time of admission in the first year of PG course.",
+      "documents": "Birth Certificate or Class 10th Marksheet",
+      "deadline": null
+    },
+    "source_url": "https://web.umang.gov.in/landing/scheme/category/Women%20and%20Child/",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Economically Weaker Sections (EWS)",
+    "ministry": null,
+    "summary": "EWS is a term for citizens or households with income below a certain threshold level, used to grant benefits under education or housing, with no single unique definition in India as it varies by scheme and government.",
+    "benefits": "Benefits under education or housing; full interest subsidy on educational loans for professional education; health cover up to Rs. One lakh per family; free treatment in identified private hospitals in Delhi for EWS patients.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": null,
+      "states": [],
+      "categories": [
+        "EWS",
+        "EBC",
+        "BPL",
+        "LIG"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Professional education"
+      ],
+      "occupations": [
+        "Non-agriculture workers"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Income is the dominant criterion for deciding economic weakness",
+        "State and central governments may set different criteria",
+        "Definition may include BPL categorised households",
+        "Not belonging to SC/ST/OBC for EBCs",
+        "Female head preferred for registration of houses under PMAY"
+      ]
+    },
+    "documents": [
+      "Income certificate issued by a Revenue Officer not below the rank of Tehsildar",
+      "BPL Ration card",
+      "Antodya Anna Yojna Ration Card",
+      "Food Security Card issued by the state government",
+      "Legal affidavit"
+    ],
+    "evidence": {
+      "income": "Income certificate issued by a Revenue Officer not below the rank of Tehsildar",
+      "age": null,
+      "documents": null,
+      "deadline": null
+    },
+    "source_url": "https://ies.gov.in/arthapedia/concept/economically-weaker-sections-ews",
+    "evidence_verified": {
+      "income": true,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Post-Matric Scholarship Scheme-Bihar",
+    "ministry": "Department of Education, Bihar",
+    "summary": "The Post-Matric Scholarship Scheme-Bihar is designed to support students from disadvantaged communities by covering their educational expenses for post-secondary courses. The scholarship is intended for students belonging to Extremely Backward Classes (EBC) and Other Backward Classes (OBC) who are permanent residents of Bihar.",
+    "benefits": "Scholarship and maintenance allowance will be payable on the basis of the criteria prescribed in the resolution issued by the Government of India from time to time.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 300000,
+      "states": [
+        "Bihar"
+      ],
+      "categories": [
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Post-Matriculation/After Matriculation"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The applicant should be a permanent resident of Bihar state.",
+        "The caste of the applicant should be included in the list of Backward Class and Extremely Backward Class issued by the state government.",
+        "The applicant should be studying in higher classes after passing the Matriculation/Entry Examination.",
+        "The family's annual income must not exceed Rs. 2,50,000/- for Extremely Backward Classes (EBC) and Rs. 3,00,000/- for Other Backward Classes (OBC).",
+        "The scholarship will be awarded to only two (2) sons of the applicant's parents. This rule will not apply to daughters."
+      ]
+    },
+    "documents": [
+      "Proof of identity (Aadhaar Card).",
+      "Caste certificate.",
+      "Domicile certificate.",
+      "Income certificate of the family.",
+      "Bank account details.",
+      "Admission letter and fee receipt from the educational institution.",
+      "Bonafide certificate.",
+      "Last Exam Passing Marksheet.",
+      "Passport-size photographs.",
+      "Any other documents (if required)."
+    ],
+    "evidence": {
+      "income": "The family's annual income must not exceed the below-mentioned limit: Extremely Backward Classes (EBC): Rs.2,50,000/-, Other Backward Classes (OBC): Rs.3,00,000/-.",
+      "age": null,
+      "documents": "Proof of identity (Aadhaar Card), Caste certificate, Domicile certificate, Income certificate of the family, Bank account details, Admission letter and fee receipt from the educational institution.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/pmssb",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "National Scholarship for Postgraduate Studies",
+    "ministry": "University Grants Commission (UGC)",
+    "summary": "National scholarship scheme to support Indian students pursuing their first postgraduate (PG) degree in India. Up to 10,000 scholarships are offered on an all-India merit basis for two years at Rs. 15,000 per month.",
+    "benefits": "Rs. 15,000 per month for 10 months per year, for a total duration of two years, disbursed via Direct Benefit Transfer to an Aadhaar-seeded bank account.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": 30,
+      "max_family_income": null,
+      "states": [],
+      "categories": [],
+      "genders": [],
+      "education_levels": [
+        "Postgraduate"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Scholarship is available only for the first PG degree; students who already hold a postgraduate degree are not eligible.",
+        "Must be admitted to the first year/semester of a regular/full-time PG programme; open/distance/correspondence/private/part-time modes are not eligible.",
+        "Institutions must have valid NAAC accreditation, AISHE code, and be recognized under the UGC Act.",
+        "Aadhaar is mandatory for disbursement; bank account must be Aadhaar-seeded and KYC-compliant.",
+        "A student may receive only one scholarship/monetary benefit at a time.",
+        "50% of slots are earmarked for Arts/Humanities/Social Sciences/Law/Management, and 50% for Science/Engineering/Technology/Medical/Technical/Agriculture/Forestry.",
+        "Selection is merit-based with tie-breaking rules; 30% of slots are reserved for women candidates.",
+        "Renewal is contingent on satisfactory conduct, prescribed attendance, and promotion to the next year."
+      ]
+    },
+    "documents": [
+      "Certificate issued by competent authority for caste and/or category",
+      "Evidence of admission to first year/semester of the PG programme",
+      "Educational qualifications and mark sheets (UG marks and other academic records)",
+      "Aadhaar card (for Aadhaar seeding) and Aadhaar-linked bank account details",
+      "Any affidavits/certificates the institution may require to ensure eligibility"
+    ],
+    "evidence": {
+      "income": null,
+      "age": "The document requires applicants to be below 30 years as on admission date, but does not list the specific documentary proof for age.",
+      "documents": "Institutions are required to upload scanned copies of verifying certificates on NSP and retain original documents for the scholarship period plus two years.",
+      "deadline": "This document does not specify a fixed application deadline date; the portal is opened once a year and exact dates are published on the National Scholarship Portal and via short notification on the UGC website."
+    },
+    "source_url": "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Central Sector Scholarship of Top Class Education for SC Students",
+    "ministry": "Ministry of Social Justice and Empowerment, Government of India",
+    "summary": "The scheme aims at recognising and promoting quality education amongst students belonging to SCs by providing financial support for pursuing studies beyond 12th class in notified Top Class institutions.",
+    "benefits": "Full tuition fee and other non-refundable charges (ceiling of Rs. 2,00,000 per annum per student for private sector institutions). Academic allowance of Rs. 86,000 in the first year and Rs. 41,000 in every subsequent year, paid directly to students via Direct Benefit Transfer (DBT).",
+    "deadline": "The last date of verification of applications of the students by the institutions on NSP shall be 31st of October every year or the date decided by DBT Mission in consultation with stakeholder Ministries",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 800000,
+      "states": [],
+      "categories": [
+        "SC"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Studies beyond 12th class in full-time prescribed courses at notified Top Class institutions (undergraduate and certain postgraduate/professional courses)"
+      ],
+      "occupations": [],
+      "min_marks_percent": null,
+      "other": [
+        "Fresh scholarship only for first-year students; students in 2nd/3rd/4th year are not eligible for fresh selection (renewals possible).",
+        "If eligible admitted students exceed the slots allotted to an institution, scholarships restricted to top students in inter-se merit; in case of tie for last slot, preference to lower family income.",
+        "No more than 2 siblings from a family shall get benefit under the Scheme; student must submit an affidavit certifying he/she is not the third sibling availing benefit.",
+        "Scholarship terminated if student fails to get promoted to next semester/class; upon promotion scholarship is released suo moto.",
+        "If a selected student changes institute/college after selection under the scheme, scholarship will be discontinued and the student will not be eligible further under this scheme.",
+        "Selected candidate cannot simultaneously avail other similar scholarship benefits of Centre or State Governments."
+      ]
+    },
+    "documents": [
+      "Income certificate",
+      "Caste certificate (SC certificate)",
+      "Bank account details (for DBT transfer)",
+      "Admission Rank (entrance exam rank or institute admission evidence)",
+      "Fee details",
+      "Affidavit certifying sibling status (to show not the third sibling availing benefit)"
+    ],
+    "evidence": {
+      "income": "Income declaration of self-employed parents/guardian should be in the form of a certificate issued by revenue officer not below the rank of Tehsildar.",
+      "age": null,
+      "documents": "The students are required to apply under the Scheme on the National Scholarship Portal (NSP) and upload their income certificate and caste certificate on the Portal along with details of their bank account, Admission Rank and Fee details to claim the scholarship.",
+      "deadline": "The last date of verification of applications of the students by the institutions on NSP shall be 31st of October every year or the date decided by DBT Mission in consultation with stakeholder Ministries"
+    },
+    "source_url": "https://socialjustice.gov.in/schemes/27",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "P.G. Scholarship for Professional Courses for SC/ST candidates",
+    "ministry": "University Grants Commission (UGC)",
+    "summary": "To provide financial assistance to selected candidates belonging to SC/ST categories for pursuing Post-graduation in Professional Courses on a full-time/regular basis in Universities/Institutes/Colleges in India.",
+    "benefits": "Rs. 78,000/- per annum for ME/M Tech and Rs. 45,000/- per annum for other professional courses.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": null,
+      "states": [],
+      "categories": [
+        "SC",
+        "ST"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Post Graduate"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "SC/ST candidates who are pursuing Post Graduate level studies in Professional subjects at recognized universities/institutes/colleges.",
+        "Total slots: 1000.",
+        "Tenure: 2 years."
+      ]
+    },
+    "documents": [],
+    "evidence": {
+      "income": null,
+      "age": null,
+      "documents": null,
+      "deadline": null
+    },
+    "source_url": "https://www.ugc.gov.in/Scholarships/stu_Scholarship3",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
   }
 ]
