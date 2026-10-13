@@ -1,0 +1,35 @@
+[
+  {
+    "name": "DEMO ONLY - Sample Merit Scholarship",
+    "ministry": "Demo Ministry (not a real scheme)",
+    "summary": "Placeholder entry for testing.",
+    "benefits": "Rs 10,000 per year (fake)",
+    "deadline": "31 December 2026 (fake)",
+    "eligibility": {
+      "min_age": 16, "max_age": 25, "max_family_income": 250000,
+      "states": [], "categories": [], "genders": [],
+      "education_levels": ["Undergraduate"], "min_marks_percent": 60,
+      "other": ["Must not receive any other scholarship"]
+    },
+    "documents": ["Aadhaar card", "Income certificate", "Previous marksheet"],
+    "evidence": {"income": "Family income must not exceed Rs 2.5 lakh per annum.", "age": null, "documents": null, "deadline": null},
+    "evidence_verified": {"income": false},
+    "source_url": "https://example.gov.in/demo"
+  },
+  {
+    "name": "DEMO ONLY - Sample SC/ST Support Scheme",
+    "ministry": "Demo Ministry (not a real scheme)",
+    "summary": "Placeholder entry limited to SC/ST students in one state.",
+    "benefits": "Fee waiver (fake)",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null, "max_age": null, "max_family_income": 200000,
+      "states": ["Bihar"], "categories": ["SC", "ST"], "genders": [],
+      "education_levels": [], "min_marks_percent": null, "other": []
+    },
+    "documents": ["Caste certificate", "Domicile certificate", "Bank passbook"],
+    "evidence": {},
+    "evidence_verified": {},
+    "source_url": "https://example.gov.in/demo2"
+  }
+]

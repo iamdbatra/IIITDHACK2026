@@ -1,0 +1,1111 @@
+[
+  {
+    "name": "Post Matric Scholarship Scheme For The Students Belonging To Scheduled Tribe For Studies In India",
+    "ministry": "Ministry Of Tribal Affairs",
+    "summary": "A centrally sponsored scholarship scheme for Scheduled Tribe students to receive financial assistance for higher education from Post Matric to Post Graduate level in India. The scheme provides payment of compulsory fees and a monthly maintenance allowance through direct benefit transfer.",
+    "benefits": "Payment of compulsory fees charged by educational institutions and a monthly maintenance allowance varying from ₹230 to ₹1200 per month depending on the course of study, plus additional disability allowances of ₹800 per month for hostellers and ₹600 for day scholars for Divyangjan students.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 200000,
+      "states": [],
+      "categories": [
+        "ST"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Post Matriculation (Class XI-XII)",
+        "Bachelor Degree",
+        "Master Degree",
+        "MPhil/PhD",
+        "PG Diploma",
+        "Professional Courses",
+        "Non-professional Courses",
+        "Vocational stream",
+        "ITI courses",
+        "Diploma courses in Polytechnics",
+        "Post Graduation"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Must be a national of India.",
+        "Must belong to Scheduled Tribes as specified in relation to the State/Union Territory where the applicant is permanently settled.",
+        "Must have passed Matriculation or Higher Secondary or any higher examination of a recognized University or Board of Secondary Education.",
+        "Students studying in Class XI of Higher Secondary Schools with continuous 12th class course are not eligible unless their Class X is treated as equivalent to Matriculation.",
+        "Students pursuing post-graduate courses in medicine are eligible only if they are not allowed to practice during the course period.",
+        "Students pursuing studies through correspondence courses are eligible.",
+        "Employed students who take leave without pay for the entire course duration and study as full-time students are eligible.",
+        "A scholarship holder cannot hold any other scholarship/stipend at a time.",
+        "All children of the same parents/guardians are entitled to receive benefits."
+      ]
+    },
+    "documents": [
+      "Application form in the prescribed form (separate forms for fresh and renewal scholarships)",
+      "Passport-size photograph with signatures (for fresh scholarship)",
+      "Attested copies of certificates, diplomas, degrees for all examinations passed",
+      "Original caste certificate duly signed by an authorized Revenue Officer not below the rank of Tahsildar",
+      "Income declaration affidavit on non-judicial stamp paper for self-employed parents/guardians, or income certificate from employer for employed parents/guardians",
+      "Receipt acknowledgment of scholarship in the previous year (if applicable), counter-signed by Head of Institution"
+    ],
+    "evidence": {
+      "income": "Income declaration by self-employed parents/guardians stating definite income from all sources through an affidavit on non-judicial stamp paper.",
+      "age": null,
+      "documents": "A certificate (in original) of Caste duly signed by an authorized Revenue Officer not below the rank of Tahsildar.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/post-st",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Pre-Matric Scholarships Scheme for Scheduled Castes & Others",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "summary": "A Centrally Sponsored Scheme to support parents of children from Scheduled Castes and other disadvantaged categories for their pre-matric education, improve participation, minimize drop-outs, and help students progress to higher education.",
+    "benefits": "Consolidated academic allowances: Rs. 3,500 per annum for day scholars (Component 1), Rs. 7,000 per annum for hostellers (Component 2), and Rs. 8,000 per annum for hostellers in classes III-X (Component 2). An additional 10% extra allowance is provided for Divyang (disabled) students.",
+    "deadline": "Applications are typically invited annually from 1st April to 31st July each year.",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "Scheduled Caste (Component 1)",
+        "Children of parents/guardians engaged in Unclean and hazardous Occupation (Component 2)"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Class I to Class X"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Full-time students only",
+        "Students must be pursuing studies in India only",
+        "Scholarship awarded by the State/UT where the applicant is domiciled",
+        "A scholarship holder must not hold another educational scholarship for classes I to X; if awarded another, the student may choose either and must inform the awarding authority",
+        "A student repeating a class is not eligible for scholarship for that same class in the repeat year",
+        "Attendance of 75% required every academic year",
+        "Aadhaar (or alternative ID) is to be provided; Aadhaar authentication mandatory at renewals",
+        "Open irrespective of caste/religion for Component 2 if parent/guardian engaged in eligible unclean/hazardous occupations"
+      ]
+    },
+    "documents": [
+      "Aadhaar ID / Aadhaar EID (and other alternative ID as per Ministry notification)",
+      "Bank account details (for DBT payment)",
+      "Caste certificate for Scheduled Caste applicants (Component 1)",
+      "Income certificate for Component 1 (to establish annual income ≤ Rs. 2.50 lakh)",
+      "Certificate from District Social Welfare Officer or designated authority for parents/guardians engaged in unclean/hazardous occupations (Component 2)"
+    ],
+    "evidence": {
+      "income": "Income certificate required for Component 1 to establish annual income does not exceed Rs. 2.50 lakh per annum.",
+      "age": null,
+      "documents": "Aadhaar authentication is mandatory in renewals, with auto-verification by linking databases using Aadhaar as the link.",
+      "deadline": "Applications are typically invited annually from 1st April to 31st July each year."
+    },
+    "source_url": "https://socialjustice.gov.in/schemes/23",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Merit-cum-Means Based Scholarship Scheme",
+    "ministry": "Ministry of Minority Affairs, Government of India",
+    "summary": "A Central Sector Scheme providing financial assistance to poor and meritorious students belonging to notified minority communities (Muslims, Sikhs, Christians, Buddhists, Jains, and Parsis) to pursue professional and technical courses at undergraduate and postgraduate levels. During the 12th Five Year Plan, 60,000 fresh scholarships are awarded each financial year plus renewals, allocated State/UT-wise on the basis of minority population.",
+    "benefits": "Course fee reimbursement up to Rs. 20,000 per annum (subject to actuals whichever is less) for both hostellers and day scholars, plus maintenance allowance of Rs. 1,000 per month (Rs. 10,000 per academic year) for hostellers and Rs. 500 per month (Rs. 5,000 per academic year) for day scholars. For students admitted to any of the 85 reputed premier institutes listed in Appendix-C, full course fee is reimbursed. All amounts credited via Direct Benefit Transfer (DBT) to the student's bank account.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "Muslims",
+        "Sikhs",
+        "Christians",
+        "Buddhists",
+        "Jain",
+        "Zoroastrians (Parsis)"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Undergraduate",
+        "Postgraduate"
+      ],
+      "min_marks_percent": 50,
+      "other": [
+        "Students must be pursuing professional and technical courses at graduate or postgraduate level from a recognized institution (Government or private) selected/notified by State Governments/UT Administrations.",
+        "Annual income of parents/guardians from all sources must not exceed Rs. 2.50 lakh.",
+        "Not more than two students from a family shall receive scholarships across all three minority scholarship schemes under the Ministry.",
+        "30% of scholarships are earmarked for girl students of each minority community in each State/UT (this 30% is a floor not a ceiling).",
+        "A scholar cannot avail other Central Government scholarships for the same purpose (one student eligible for only one Central scholarship).",
+        "Scholarship will be discontinued if the student fails to secure 50% in the previous annual examination or each semester/trimester as applicable.",
+        "Scholarship will not be paid for internship/housemanship period in MBBS or practical training if the student receives remuneration/allowance/stipend during that period.",
+        "Students must be regular in attendance as per yardstick decided by the institution."
+      ]
+    },
+    "documents": [
+      "Income Certificate issued by a Competent Authority in the State/UT Governments in respect of parent/guardian of the student",
+      "Community Certificate (self-certified if student is 18 years or older; certified by parent/guardian if under 18)",
+      "Marksheet/certificate of previous final examination showing minimum required percentage",
+      "Proof of admission to the technical/professional course in a recognized institution",
+      "Bank account details in student's name with IFSC code and KYC completed (preferably Aadhaar-seeded)",
+      "Aadhaar number or alternative identification documents as per Gazette Notification No.1137 dated 21.04.2017 (Appendix-D)"
+    ],
+    "evidence": {
+      "income": "Income Certificate issued by a Competent Authority in the State/UT Governments in respect of parent/guardian of the student.",
+      "age": "Applicants must provide Aadhaar number or alternative identification documents as per Gazette Notification No.1137 dated 21.04.2017.",
+      "documents": "Self-certified Community Certificate if student is 18 years or older; if under 18, Community Certificate certified by parent/guardian.",
+      "deadline": null
+    },
+    "source_url": "https://www.minorityaffairs.gov.in/show_content.php?lang=1&level=1&ls_id=775&lid=827",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) — Central Sector Scheme of Scholarship for College and University Students (CSSS)",
+    "ministry": "Ministry of Education, Government of India",
+    "summary": "Provides financial assistance to meritorious students from families with annual income up to ₹4.5 lakh to meet day-to-day expenses while pursuing higher studies. Scholarships are awarded based on Class XII (10+2 pattern or equivalent) Board Examination results to students in regular undergraduate, postgraduate, and professional courses.",
+    "benefits": "₹12,000 per annum for the first three years of undergraduate courses; ₹20,000 per annum at the postgraduate level; ₹20,000 per annum for the 4th and 5th years of professional/5-year integrated courses; for B.Tech/BE, ₹12,000 per annum for years 1–3 and ₹20,000 in the 4th year. Maximum 82,000 fresh scholarships per annum. 50% of scholarships are earmarked for girls. Payment is made via Direct Benefit Transfer (DBT) to the beneficiary's Aadhaar-seeded bank account.",
+    "deadline": "No fixed date is stated in the scheme guidelines document. Timelines (opening/closing of portal) and latest guidelines on timelines are provided on the National Scholarships Portal (NSP) at www.scholarships.gov.in.",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 450000,
+      "states": [],
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Undergraduate",
+        "Postgraduate",
+        "Professional courses (medical, engineering, integrated 5-year courses)"
+      ],
+      "min_marks_percent": 50,
+      "other": [
+        "Student must be above the 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class XII.",
+        "Must be pursuing regular degree courses (not correspondence/distance or diploma courses).",
+        "Courses must be at colleges/institutions recognized by AICTE and respective regulatory bodies.",
+        "Must not be availing benefit of any other merit scholarship schemes, State run scholarship schemes, fee waiver, or reimbursement schemes.",
+        "Diploma students and students who took a drop after Class XII are explicitly not eligible for fresh scholarships.",
+        "For renewal: must secure at least 50% marks in the Annual Examination and maintain at least 75% attendance.",
+        "Maximum duration for scholarship is up to 5 years in total.",
+        "Students who received a fresh scholarship in any of the previous four academic years can apply for renewal.",
+        "Minor applicants may apply with parent's Aadhaar; applicant must submit own Aadhaar on attaining age 18."
+      ]
+    },
+    "documents": [
+      "Income certificate (required only for fresh applicants)",
+      "Class XII mark sheet",
+      "Category/caste certificate (if applying under reserved category)",
+      "Disability certificate (if applicable, for 40%+ Benchmark Disability)",
+      "Previous year mark sheet (for renewal applications)",
+      "Savings bank account details in student's name (Aadhaar-seeded for DBT)",
+      "Aadhaar number or Aadhaar Enrollment ID (for e-KYC and OTR)"
+    ],
+    "evidence": {
+      "income": "Gross parental/family income up to ₹4.5 lakh per annum, with income certificate required only for fresh applicants.",
+      "age": "Minor applicants may apply with parent's Aadhaar; applicant must submit own Aadhaar on attaining age 18.",
+      "documents": "Educational qualifications and caste credentials are verified via DigiLocker.",
+      "deadline": "Timelines (opening/closing of portal) and latest guidelines on timelines will be provided on the National Scholarships Portal (NSP) at www.scholarships.gov.in."
+    },
+    "source_url": "https://scholarships.gov.in/",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",
+    "ministry": "Ministry of Social Justice and Empowerment, Government of India",
+    "summary": "A sub-scheme under PM-YASASVI providing full financial support for quality education to OBC, EBC, and DNT students pursuing studies beyond Class XII in notified institutions.",
+    "benefits": "Full tuition fee and non-refundable charges (ceiling of ₹2.00 lakhs per annum for private institutions and ₹3.72 lakhs per annum for private flying clubs), living expenses at ₹3,000 per month, books and stationery at ₹5,000 per annum, and one-time assistance of up to ₹45,000 for a laptop/computer with accessories.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "OBC",
+        "EBC",
+        "DNT"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Studies beyond Class XII"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Benefits are limited to a maximum of 2 siblings per family; students must submit an affidavit certifying they are not the third sibling availing benefits.",
+        "30% of slots are reserved for eligible girl students based on inter-se merit.",
+        "Preference is given to OBC students.",
+        "Students must have secured admission in a full-time prescribed course in any of the notified institutions.",
+        "Scholarship is terminated if a student fails to get promoted to the next semester/class."
+      ]
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Passport size photograph",
+      "Educational qualification marksheets/certificates",
+      "Valid Income certificate issued by the competent Authority",
+      "Domicile Certificate",
+      "Caste/Community Certificate issued by the competent authority",
+      "Disability certificate, if applicable",
+      "Bank Account details",
+      "Admission Rank Proof",
+      "Proof of fee details"
+    ],
+    "evidence": {
+      "income": "Valid Income certificate issued by the competent Authority.",
+      "age": "Students must be pursuing studies beyond Class XII.",
+      "documents": "Caste/Community Certificate issued by the competent authority and Domicile Certificate.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/pm-yasasvitcceobcebcdnts",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Post-Matric Scholarship Scheme for SC Students (PMSFSS)",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "summary": "The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households, by providing financial assistance at post-matriculation or post-secondary stage to enable them to complete their education.",
+    "benefits": "Scholarship amounts vary by course group and residential status: Group 1 - ₹13,000/year (hostellers), ₹7,000/year (day scholars); Group 2 - ₹9,500/year (hostellers), ₹6,500/year (day scholars); Group 3 - ₹6,000/year (hostellers), ₹3,000/year (day scholars); Group 4 - ₹4,000/year (hostellers), ₹2,500/year (day scholars). An additional 10% allowance is provided for Divyang (disabled) students.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "SC"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Post-Matriculation",
+        "Higher Secondary",
+        "Graduate",
+        "Post Graduate"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The scholarships are open to Indian nationals only.",
+        "Only candidates who belong to Scheduled Castes are eligible.",
+        "Candidates must have passed Matriculation, Higher Secondary, or a higher examination of a recognized university or Board of Secondary Education.",
+        "The ceiling on age limit for admission as a regular student in different classes should be decided by the concerned institutions.",
+        "Candidates studying in the same stage of education in a different subject after passing one stage are not eligible.",
+        "Students pursuing studies through correspondence or online courses are eligible.",
+        "All children of any parent or guardian are entitled to receive benefits.",
+        "A scholarship holder under this scheme will not hold any other scholarship or stipend."
+      ]
+    },
+    "documents": [
+      "Photograph",
+      "Academic Certificate",
+      "Caste Certificate",
+      "Income proof",
+      "Domicile Certificate",
+      "Bank Account Details",
+      "Aadhaar Card"
+    ],
+    "evidence": {
+      "income": "Scholarships will be paid to students whose parents' or guardians' income from all sources does not exceed ₹ 2,50,000/- per annum.",
+      "age": null,
+      "documents": "Candidates must possess Caste Certificate, Income proof, Domicile Certificate, Bank Account Details, Aadhaar Card, Academic Certificate, and Photograph.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/pmsfss",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students",
+    "ministry": "Ministry of Education",
+    "summary": "A scholarship scheme providing financial assistance to meritorious students from low-income families for higher studies, with up to 82,000 fresh scholarships awarded annually based on Class 12th results. Scholarships are disbursed via Direct Benefit Transfer to Aadhaar-seeded bank accounts.",
+    "benefits": "₹12,000/- per annum at the Graduation level for the first three years of College/University courses; ₹20,000 per annum at the Post-graduation level; ₹20,000/- per annum in the 4th and 5th year for students pursuing professional courses (where the course duration is 5 years/Integrated); and for technical courses like B.Tech/B.Engg, students receive ₹12,000 p.a. for the 1st, 2nd, and 3rd years, and ₹20,000 in the 4th year.",
+    "deadline": "The National Scholarships Portal will provide the timelines for opening & closing of the portal.",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 450000,
+      "states": [],
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "genders": [
+        "Male",
+        "Female"
+      ],
+      "education_levels": [
+        "Undergraduate",
+        "Postgraduate"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": 80,
+      "other": [
+        "The applicant must be above the 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class 12th of 10+2 pattern or equivalent.",
+        "The applicant must be pursuing regular degree courses at colleges/institutions recognized by AICTE and respective Regulatory Bodies.",
+        "Students pursuing correspondence or distance mode or Diploma courses are not eligible.",
+        "Students already availing benefits from any other scholarship schemes including State-run schemes/fee waiver & reimbursement schemes are not eligible.",
+        "For renewal, at least 50% marks in the Annual Examination and at least 75% attendance are required.",
+        "Students are required to have Aadhaar seeded bank accounts opened in their name."
+      ]
+    },
+    "documents": [
+      "12th Mark Sheet",
+      "Family Income Certificate",
+      "Category/Caste Certificate for reserved category students",
+      "Disability Certificate (if applicable)",
+      "Previous Year Mark Sheet (for renewal)"
+    ],
+    "evidence": {
+      "income": "The gross parental/ family income of the applicant should not exceed ₹4,50,000/- per annum.",
+      "age": null,
+      "documents": "The copy of above-mentioned documents must be provided to the institutes at the time of verification, if sought for by the Institute Nodal Officer (INO).",
+      "deadline": "The National Scholarships Portal will provide the timelines for opening & closing of the portal."
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/csss-cus",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Berojgari Bhatta Yojna",
+    "ministry": "Ministry of Electronics and Information Technology (MeitY)",
+    "summary": "A financial assistance scheme for unemployed youth in Uttar Pradesh that provides Rupees 1,000 to Rupees 1,500 per month until they secure a desired job.",
+    "benefits": "The government will provide financial assistance of Rupees 1,000 to Rupees 1,500 till the time youths get desired job. Private and government jobs are available on one portal. Online application facility. Facility to search jobs by category, location, department, and salary.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": 21,
+      "max_age": 35,
+      "max_family_income": 300000,
+      "states": [
+        "Uttar Pradesh"
+      ],
+      "categories": [],
+      "genders": [],
+      "education_levels": [
+        "10th standard (High School)"
+      ],
+      "occupations": [
+        "Unemployed"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The candidate must be a permanent resident of Uttar Pradesh. The candidate must be currently unemployed i.e he must not be not working in any private or government job."
+      ]
+    },
+    "documents": [
+      "Residential proof",
+      "Aadhar card",
+      "Income certificate",
+      "Birth certificate",
+      "Caste certificate (if eligible)",
+      "Notary-certified Affidavit",
+      "Registration certificate of employment exchange",
+      "Proof of educational qualification (mark sheets, certificates, etc.)"
+    ],
+    "evidence": {
+      "income": "The total family income of the candidates from all sources must not exceed Rupees 3 lahks per annum.",
+      "age": "all the applicants must lie in the age group between 21-35 years",
+      "documents": "List of the required documents: Residential proof. Aadhar card. Income certificate. Birth certificate. Caste certificate (if eligible). Notary-certified Affidavit. Registration certificate of employment exchange. Proof of educational qualification (mark sheets, certificates, etc.).",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/bby",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "One Family One Job Scheme",
+    "ministry": "Directorate of Employment, Government of Haryana",
+    "summary": "The scheme aims to provide employment opportunities to families in Haryana where no member is employed in the public or private sector, and no family member is an income tax or sales taxpayer. Eligible residents aged 18-35 can register to receive benefits from the Employment Department, with age relaxation for SC/BC applicants.",
+    "benefits": "Candidates registered under this scheme are eligible for all benefits provided by the Employment Department.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 35,
+      "max_family_income": null,
+      "states": [
+        "Haryana"
+      ],
+      "categories": [
+        "SC",
+        "BC"
+      ],
+      "genders": [],
+      "education_levels": [],
+      "occupations": [
+        "Unemployed"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The applicant must be a resident of Haryana State.",
+        "No member of the applicant's family should be employed in the public or private sector.",
+        "No member of the applicant's family should be an income tax or sales taxpayer.",
+        "No member of the applicant's family should be a current or former MP/MLA or a chairman of any board, corporation, or undertaking."
+      ]
+    },
+    "documents": [
+      "Family ID (PPP document)",
+      "Ration Card",
+      "Family History Sheet",
+      "Self-declaration form",
+      "Haryana Resident Certificate/Domicile Certificate",
+      "Address Proof (Any two of the following): Aadhaar Card, Voter ID, Attested copy of Haryana domicile certificate, Ration Card, Driving License"
+    ],
+    "evidence": {
+      "income": null,
+      "age": null,
+      "documents": "Family ID (PPP document)",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/ofojs",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "MGNREGA",
+    "ministry": null,
+    "summary": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) aims to provide guaranteed wage employment to rural households. Any applicant is entitled to work within 15 days, for as many as he/she has applied, subject to a limit of 100 days per household per year.",
+    "benefits": "Any applicant is entitled to work within 15 days, for as many as he/she has applied, subject to a limit of 100 days per household per year.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "max_family_income": null,
+      "states": [],
+      "categories": [],
+      "genders": [],
+      "education_levels": [],
+      "occupations": [
+        "Worker"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Should be an Indian Citizen",
+        "Any person who is above the age of 18 and resides in rural areas is entitled to apply for work"
+      ]
+    },
+    "documents": [],
+    "evidence": {
+      "income": null,
+      "age": null,
+      "documents": null,
+      "deadline": null
+    },
+    "source_url": "https://eshram.gov.in/employment-schemes",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "BC & EBC Girls Residential +2 High School",
+    "ministry": "BC & EBC Welfare Department, Government of Bihar",
+    "summary": "High schools are being run in all the 38 districts of the state with the objective of providing quality education with various modern facilities in a safe and natural environment for the educational and overall development of the girl students of backward class and extremely backward class.",
+    "benefits": "Free enrolment, free accommodation, free food and sacks (as per menu), payment for clothes/books/medicine/cleaning through DBT, laboratory with modern facilities, vocational training and skill development, Jananayak Library and Digital Study Centre, free competitive quality books and study material, 24 hours uninterrupted power supply, Science & Maths/Literature & Sociology Club, career guidance and motivational sessions, and educational tour programme under Chief Minister's tour.",
+    "deadline": "null",
+    "eligibility": {
+      "min_age": 11,
+      "max_age": 16,
+      "max_family_income": 300000,
+      "states": [
+        "Bihar"
+      ],
+      "categories": [
+        "BC",
+        "EBC"
+      ],
+      "genders": [
+        "Female"
+      ],
+      "education_levels": [
+        "Class 6",
+        "Class 7",
+        "Class 8",
+        "Class 9",
+        "Class 10",
+        "Class 12"
+      ],
+      "occupations": [],
+      "min_marks_percent": null,
+      "other": [
+        "The applicant should be a girl student.",
+        "The applicant should be a resident of Bihar.",
+        "The applicant should belong to the Backward Class (BC) or Extremely Backward Class (EBC).",
+        "The benefits under this scheme are available to girl students from Class 6 to Class 12.",
+        "Selection of girl students for Classes VI, VII, VIII, and IX will be based on an entrance examination.",
+        "The annual income of the applicant's parents/guardians should not exceed ₹3,00,000/-.",
+        "Age limit: 11-13 years for Class 6th, 12-14 years for Class 7th, 13-15 years for Class 8th, 14-16 years for Class 9th."
+      ]
+    },
+    "documents": [
+      "Identity proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Residence Certificate",
+      "Educational Qualification Certificates",
+      "Age Proof (Birth Certificate/School Certificate)",
+      "Recent Passport-size Photograph",
+      "Any other documents as required"
+    ],
+    "evidence": {
+      "income": "The annual income of the applicant's parents/guardians should not exceed ₹3,00,000/-.",
+      "age": "Age limit: 11-13 years for Class 6th, 12-14 years for Class 7th, 13-15 years for Class 8th, 14-16 years for Class 9th.",
+      "documents": "Upload the required documents, including a photograph and signature, Birth certificate, Caste certificate, Income certificate, and Residential certificate.",
+      "deadline": "null"
+    },
+    "source_url": "https://www.myscheme.gov.in/search/state/Bihar",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Mukhyamantri Nischay Swayam Sahayata Bhatta Yojna",
+    "ministry": "Government of Bihar",
+    "summary": "The scheme provides a self-help allowance of Rs. 1000 per month for up to two years to educated unemployed citizens of Bihar (inter/12th passed, not studying, not employed) to prevent financial crisis, along with mandatory language and computer training through the Skilled Youth Program.",
+    "benefits": "Self-help allowance of Rs.1000 per month for a maximum period of two years; beneficiaries must also undergo training in language communication and basic computer knowledge through the Skilled Youth Program conducted by the Labor Resources Department.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": 20,
+      "max_age": 25,
+      "max_family_income": null,
+      "states": [
+        "Bihar"
+      ],
+      "categories": [],
+      "genders": [],
+      "education_levels": [
+        "Inter (12th) passed"
+      ],
+      "occupations": [
+        "Unemployed"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Must be an educated unemployed young man/woman from Bihar. Must not be studying and must be looking for employment. Must have inter (12th) passed from a government-recognized institution located in Bihar but must not have received higher education. Must not have received any allowance, scholarship, student credit card, education loan, or assistance from any other source. Must not be in government/non-government employment or self-employed."
+      ]
+    },
+    "documents": [
+      "Aadhar Card",
+      "Xth Passing Certificate",
+      "XIIth Passing Certificate",
+      "Resident Certificate",
+      "Filled Common Application form"
+    ],
+    "evidence": {
+      "income": null,
+      "age": "The applicant's age should be between 20 years to 25 years",
+      "documents": "Aadhar Card, Xth Passing Certificate, XIIth passing Certificate, Resident Certificate, Filled Common Application form",
+      "deadline": null
+    },
+    "source_url": "https://web.umang.gov.in/landing/scheme/detail/mukhyamantri-nischay-swayam-sahayata-bhatta-yojna_mnssby.html",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Postmatric SC Scholarship",
+    "ministry": "Department of Social Justice & Empowerment",
+    "summary": "This scholarship is for Scheduled Castes (SC) students to provide financial assistance for pursuing post-matriculation education. The scheme aims to support students from economically weaker sections to complete their higher education and improve their career prospects.",
+    "benefits": "The scholarship covers the cost of tuition and other compulsory fees, maintenance allowance, books and stationery, and any other benefits as specified by the Ministry from time to time.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "SC"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Post-matriculation courses (Class XI onwards, including vocational/technical/professional courses)"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": 50,
+      "other": [
+        "Candidate should belong to Scheduled Castes (SC).",
+        "The scholarship is for pursuing post-matriculation studies.",
+        "Students should be studying in India only.",
+        "Students should not be receiving any other financial aid for the same course.",
+        "The scholarship is applicable for both public and private sector training providers.",
+        "Preference is given to students pursuing higher education courses."
+      ]
+    },
+    "documents": [
+      "Caste Certificate",
+      "Mark sheet of previous examination",
+      "Proof of admission/Bonafide student certificate from the institution",
+      "Undertaking by the student",
+      "Income certificate for fee concession/scholarship"
+    ],
+    "evidence": {
+      "income": "Income certificate issued by a competent authority.",
+      "age": null,
+      "documents": "Caste Certificate, Mark sheet of previous examination, Proof of admission/Bonafide student certificate, Income certificate.",
+      "deadline": null
+    },
+    "source_url": "https://scholarships.gov.in/public/schemeGuidelines/Postmatric_SC.pdf",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Scholarship/Merit Scholarship Schools SC/ST/OBC/Min (Studying in College/Technical/ Professional Institutions)",
+    "ministry": "Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi",
+    "summary": "A scholarship scheme launched by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi, providing monthly financial assistance to SC/ST/OBC/Minority students pursuing higher education in recognized institutions. Scholarship amounts range from ₹420 to ₹1,860 per month based on course group and hostel/day scholar status.",
+    "benefits": "Course of Study Group-A (Degree courses in medical/engineering/B.Sc. (Agri)/Veterinary Science/Forensic Science/Higher Technical and professional studies, B.A.M.S. and comparable courses): Hostellers get ₹1,620/- per month for 12 months; Day Scholars get ₹900/- per month for 12 months. For Postgraduate courses: Hostellers get ₹1,860/- per month for 12 months; Day Scholars get ₹960/- per month for 12 months. Course of Study Group-B (Diploma-level courses in Indian medicine, engineering, technology, architecture, vocational courses, postgraduate courses in science): Hostellers get ₹1,110/- per month for 12 months; Day Scholars get ₹720/- per month for 12 months. Course of Study Group-C (Certificate courses in engineering, technology, architecture, medicine, vocational courses with minimum one year duration): Hostellers get ₹930/- per month for 12 months; Day Scholars get ₹630/- per month for 12 months. Course of Study Group-D (General courses up to graduate level): Hostellers get ₹804/- per month for 12 months; Day Scholars get ₹420/- per month for 12 months. Postgraduate studies in Arts, Commerce, and other subjects: Hostellers get ₹930/- per month for 12 months; Day Scholars get ₹630/- per month for 12 months. Scholarship amount reduced to 50% if a student fails annual examination but continues studies (except medical grounds or natural calamities).",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 200000,
+      "states": [
+        "Delhi"
+      ],
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Undergraduate",
+        "Postgraduate",
+        "Diploma",
+        "Certificate courses"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": 60,
+      "other": [
+        "The applicant should be a resident of Delhi.",
+        "The applicant should belong to the SC/ST/OBC/Minority category.",
+        "The applicant should be enrolled in a recognized school, college, or institution in India.",
+        "The applicant should be a student.",
+        "The applicant should have secured a 60% or above marks in the previous examination.",
+        "If the applicant is from OBC/Minority Community, his/her annual family income should not exceed ₹2,00,000/-."
+      ]
+    },
+    "documents": [
+      "Income Certificate issued by competent authorities of GNCTD (for OBC and Minority students)",
+      "Affidavit, in the case of a gap in education up to 3 years",
+      "Caste Certificate issued by SDM/Deputy Commissioner (Revenue), GNCTD, in the name of the student or father (for SC/ST/OBC students)",
+      "Domicile Certificate of Delhi (if the caste certificate is not issued by GNCTD)",
+      "Proof of residency in Delhi for the past three years (e.g., EPIC card, Aadhaar Number, Ration Card, MTNL landline bill, Driving License, or Domicile Certificate) (for Minority students)",
+      "Declaration by parent/guardian affirming the student's minority community status (for Minority students)"
+    ],
+    "evidence": {
+      "income": "Income Certificate issued by competent authorities of GNCTD (for OBC and Minority students)",
+      "age": null,
+      "documents": "Caste Certificate issued by SDM/Deputy Commissioner (Revenue), GNCTD, in the name of the student or father",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/smssssictpi",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Educational Assistance to the 10th to 12th Students",
+    "ministry": "Labour Department, Maharashtra",
+    "summary": "The scheme offers financial assistance of ₹10,000 to children of registered construction workers who score 50% or more in their 10th or 12th standard examinations, with a maximum of two children per registered worker being eligible.",
+    "benefits": "₹10,000/- financial assistance for children scoring 50% or more in 10th or 12th standard exams, with a maximum of two children per registered worker.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": null,
+      "states": [
+        "Maharashtra"
+      ],
+      "categories": [],
+      "genders": [],
+      "education_levels": [
+        "10th standard",
+        "12th standard"
+      ],
+      "occupations": [
+        "Construction worker (children/spouse)"
+      ],
+      "min_marks_percent": 50,
+      "other": [
+        "The child's parents or guardians must be registered under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW).",
+        "The child must have passed the 10th or 12th standard with at least 50% marks.",
+        "Only children and spouses of registered construction workers are eligible.",
+        "The child must reside in Maharashtra.",
+        "The child must be enrolled in a recognized institution.",
+        "A maximum of two children per registered worker can benefit from this scheme.",
+        "The scheme is only for 10th and 12th standard students, not for higher studies."
+      ]
+    },
+    "documents": [
+      "Passport-size Photo",
+      "Aadhaar Card",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board",
+      "Bank Passbook",
+      "Marksheet (showing 50% or more)",
+      "Proof of Residence (Aadhaar Card/Passport/Driving Licence/Ration Sheet/Electricity Bill/Gram Panchayat Certificate)"
+    ],
+    "evidence": {
+      "income": null,
+      "age": null,
+      "documents": "Aadhaar card, school mark sheet, ID card from MBOCWW, and a bank passbook.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/schemes/eatt10t12s",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Pre-Matric Scholarship for Scheduled Tribe Students studying in Classes IX & X",
+    "ministry": "Ministry of Tribal Affairs, Government of India",
+    "summary": "Centrally-sponsored scholarship to eligible ST students in classes IX and X to reduce dropout and support progression to post-matric education, with scholarships awarded by the State/UT and paid directly (DBT) into the student's bank account.",
+    "benefits": "Day scholars receive Rs. 225/month (Rs. 2,250/year) plus Rs. 750 annual books/ad-hoc grant; hostellers receive Rs. 525/month (Rs. 5,250/year) plus Rs. 1,000 annual books/ad-hoc grant. Additional Disability Allowance for eligible students: Rs. 600/month for day scholars (Rs. 7,200/year) and Rs. 800/month for hostellers (Rs. 9,600/year), paid for 12 months.",
+    "deadline": "Suggested registration period: 1 April – 31 July; institute verification by 31 August; state verification by 30 September; disbursement by 31 October. (Applicants must submit before the last date prescribed by the State/UT portal.)",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 250000,
+      "states": [],
+      "categories": [
+        "SC/ST - Scheduled Tribe"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Class IX",
+        "Class X"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "Student must belong to the Scheduled Tribe (as specified for the State/UT of domicile).",
+        "Must be studying in a Government school or a school recognized by Government or Central/State Board of Secondary Education.",
+        "Family income from all sources should not exceed Rs. 2.5 lakh per annum.",
+        "Student should have a valid bank account in a Scheduled Bank linked with Aadhaar and mobile number.",
+        "Student should not be receiving any other scholarship.",
+        "Scholarship for any class is available only for one year; a student repeating a class will not get scholarship for that class twice.",
+        "Income of other earning family members (other than parents) is not included in income calculation.",
+        "In case of orphan supported by guardian, income criteria shall not apply."
+      ]
+    },
+    "documents": [
+      "Aadhaar number",
+      "Domicile certificate",
+      "ST certificate issued by competent authority of State",
+      "Family Income Certificate issued by competent income-certificate issuing authority",
+      "Disability certificate (where applicable, issued by competent medical authority of State/UT Administration)",
+      "Scanned passport-size photograph"
+    ],
+    "evidence": {
+      "income": "Family Income Certificate issued by competent income-certificate issuing authority (self-declaration/affidavit NOT acceptable).",
+      "age": null,
+      "documents": "Scanned copies of required certificates should be uploaded to the State/NSP portal; institutes must maintain physical copies of supporting documents.",
+      "deadline": null
+    },
+    "source_url": "https://tribal.nic.in/Scholarship.aspx",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Prime Minister's Scholarship Scheme (PMSS) for the wards of Central Armed Police Forces / Assam Rifles personnel & States/UTs Police personnel martyred during Terror/Naxal attacks",
+    "ministry": "Ministry of Home Affairs",
+    "summary": "Merit-based scholarship introduced in academic year 2006-07 to encourage higher technical and professional education for dependent wards and widows of CAPFs and Assam Rifles personnel, extended from 2019-20 to dependent wards of States/UTs Police personnel martyred during Terror/Naxal attacks.",
+    "benefits": "Girls: Rs. 3,000 per month (Rs. 36,000 per year); Boys: Rs. 2,500 per month (Rs. 30,000 per year); paid annually after selection for up to five years depending on course duration; 2000 new scholarships per year (1000 each for boys and girls) plus additional 500 for States/UTs Police martyred wards (250 boys, 250 girls)",
+    "deadline": "Student application open till 30-10-2026",
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": null,
+      "states": [],
+      "categories": [
+        "Category-A: Wards/Widows of CAPFs & AR personnel killed in action",
+        "Category-B: Wards of Ex-CAPFs & AR personnel disabled in action",
+        "Category-C: Wards/Widows of deceased CAPFs & AR personnel died for causes attributable to Government service including casualties during conduct of Election",
+        "Category-D: Wards of Ex-CAPFs & AR personnel disabled while in service with disability attributable to Government Service",
+        "Category-E: Wards of Ex-CAPFs & AR personnel in receipt of Gallantry Awards",
+        "Category-F: Wards of Ex-CAPFs & AR personnel (PBOR)",
+        "Category-G: Wards of serving CAPFs & AR personnel (PBOR) subject to availability of scholarship",
+        "Dependent wards of States/UTs Police Personnel martyred during Terror/Naxal attacks"
+      ],
+      "genders": [
+        "Male",
+        "Female"
+      ],
+      "education_levels": [
+        "First professional degree courses (BE/B.Tech, BDS, MBBS, B.Pharm, B.Sc Nursing, Veterinary, Agriculture, BBA, BCA, MBA, MCA etc.) recognized by relevant regulatory bodies"
+      ],
+      "occupations": [
+        "Dependent wards/widows of CAPFs & Assam Rifles personnel (serving, retired, deceased, disabled, ex-personnel)",
+        "Dependent wards of States/UTs Police personnel martyred during Terror/Naxal attacks"
+      ],
+      "min_marks_percent": 60,
+      "other": [
+        "Scholarship admissible for only two children per family",
+        "Applicants irrespective of his/her marital status are eligible for PMSS",
+        "Minimum 60% marks in Minimum Entry Qualification (MEQ) i.e. 10+2 / Diploma / Graduation or equivalent",
+        "For renewal category: mandatory to pass each subsequent academic year with minimum 50% marks",
+        "Not eligible: wards of civilian employees of CAPFs/AR/States UT Police, applicants pursuing via correspondence/distance learning, applicants already availed PMSS, applicants admitted to non-recognized institutions/courses not leading to first professional degree, applicants studying abroad"
+      ]
+    },
+    "documents": [
+      "Service Certificate (Service-cum-Category Certificate as per Annexure-A) issued by Head of Office for serving personnel",
+      "Duly attested scanned copy of Mark sheet of MEQ (XII/Diploma/Graduation) or equivalent",
+      "PPO / Discharge Certificate / Discharge Book (mandatory for categories A to F for CAPFs/AR fresh applicants)",
+      "Disability Certificate (mandatory for category B & D)",
+      "Death Certificate (mandatory for category A & C)",
+      "Certificate of Gallantry Award (mandatory for category E)",
+      "Bonafide Certificate issued by Institute/College",
+      "Certificate issued by State Government (for States/UTs Police category fresh applicants)",
+      "Duly attested mark sheet of the professional course's previous academic year (for renewal applicants)",
+      "Aadhaar / Aadhaar Enrolment Identification (EID) - mandatory for applicants aged 18 and above",
+      "Bank account details (Aadhaar seeded account required)"
+    ],
+    "evidence": {
+      "income": null,
+      "age": "Aadhaar is mandatory for the applicants who have attained 18 years of age on the date of registration.",
+      "documents": "Following documents in the respective category are mandatorily required to be submitted /uploaded by the applicant for applying on-line on NSP under PMSS:",
+      "deadline": "Registration/Filling of online application by the applicant on www.scholarship.gov.in 01.06.2026 to 31.10.2026"
+    },
+    "source_url": "https://scholarships.gov.in/scholarshipEligibility",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Right To Information Fellowship",
+    "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+    "summary": "DOPT offers 4 short-term fellowships to researchers from media, civil society, and RTI trainers for field-based research on RTI-related themes. Fellows receive a stipend of ₹50,000 per month for three months plus ₹50,000 for research expenses.",
+    "benefits": "A stipend of ₹ 50,000/- per month for three months (subject to tax deduction at source) and ₹ 50,000/- for books, research material, travel, printing, production of creatives etc., sanctioned on the basis of the research proposal and released on production of actual bills.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": 25,
+      "max_age": 40,
+      "max_family_income": null,
+      "states": [],
+      "categories": [],
+      "genders": [],
+      "education_levels": [],
+      "occupations": [
+        "Journalist",
+        "Civil Society professional",
+        "RTI Trainer",
+        "Researcher"
+      ],
+      "min_marks_percent": null,
+      "other": [
+        "The applicant should be a professional in the field of journalism (newspaper/ magazine/ radio/ TV), Civil Society and research and training in the field of RTI.",
+        "The applicant should have proven credentials in his/her professional area.",
+        "The applicant should have some prior experience of work relating to the Right to Information.",
+        "The applicant should have an aptitude for research.",
+        "Only Indian nationals are eligible to apply for the fellowship program.",
+        "Only 4 short-term fellowships are offered."
+      ]
+    },
+    "documents": [
+      "A comprehensive proposal (not more than 6-8 A4 size pages) outlining the subject to be researched, the research plan and final deliverable.",
+      "Curriculum vitae (no more than 3 A4 sheets) along with a photograph.",
+      "A brief statement of work done in the field of RTI.",
+      "Two references from professionals familiar with the applicant's work from his/her professional field.",
+      "A no-objection from the present employer.",
+      "Passport Sized Photograph."
+    ],
+    "evidence": {
+      "income": null,
+      "age": null,
+      "documents": "Five sets of the application with enclosures in the prescribed proforma may be sent by post.",
+      "deadline": null
+    },
+    "source_url": "https://www.myscheme.gov.in/search",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "Reservation for Economically Weaker Sections (EWS) in direct recruitment in civil posts and services in the Government of India",
+    "ministry": "Ministry of Personnel, Public Grievances & Pensions (Department of Personnel & Training)",
+    "summary": "Provides 10% reservation in direct recruitment for civil posts and services for persons not covered under SC/ST/OBC reservation schemes, subject to income and asset criteria. The reservation is applicable only for direct recruitment and not for promotions, and unfilled EWS vacancies are not carried forward as backlog.",
+    "benefits": "10% reservation in direct recruitment to civil posts and services in the Government of India for eligible candidates not covered under SC/ST/OBC reservation schemes.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 800000,
+      "states": [],
+      "categories": [
+        "General",
+        "OBC (State list but not Central list)"
+      ],
+      "genders": [],
+      "education_levels": [],
+      "occupations": [],
+      "min_marks_percent": null,
+      "other": [
+        "Person must not be covered under SC/ST/OBC reservation schemes.",
+        "Family gross annual income must be below Rs 8 lakh from all sources (salary, agriculture, business, profession, pension, etc.) for the financial year prior to the year of application.",
+        "Family must not own 5 acres or more of agricultural land.",
+        "Family must not own a residential flat of 1000 sq ft or more.",
+        "Family must not own a residential plot of 100 sq yards or more in notified municipalities.",
+        "Family must not own a residential plot of 200 sq yards or more in areas other than notified municipalities.",
+        "Family includes the applicant, parents, siblings below 18, spouse, and children below 18; property of all family members is clubbed regardless of location or living arrangements.",
+        "Grandparents' property is not counted.",
+        "A residential plot is counted even if no house is constructed on it.",
+        "Commercial property is also considered under the residential property test.",
+        "Both income and asset criteria must be satisfied simultaneously.",
+        "Reservation is applicable only for direct recruitment, not for promotion.",
+        "EWS candidates can compete for unreserved vacancies.",
+        "Age relaxation and number of attempts for EWS are the same as for General category candidates."
+      ]
+    },
+    "documents": [
+      "Income and Asset Certificate in the prescribed format (Annexure-I of DoPT O.M. dated 31.01.2019)",
+      "Certificate issued by a Competent Authority (District Magistrate, Additional District Magistrate, Collector, Deputy Commissioner, Additional Deputy Commissioner, 1st Class Stipendiary Magistrate, Sub-Divisional Magistrate, Taluka Magistrate, Executive Magistrate, Extra Assistant Commissioner, Chief Presidency Magistrate, Revenue Officer not below Tehsildar, or Sub-Divisional Officer)"
+    ],
+    "evidence": {
+      "income": "Family gross annual income below Rs 8.00 lakh (from all sources including salary, agriculture, business, profession, etc.).",
+      "age": null,
+      "documents": "Income and Asset Certificate issued by a Competent Authority in the format prescribed in Annexure-I.",
+      "deadline": null
+    },
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02adm/ewsf28fT.PDF",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  },
+  {
+    "name": "State Funded Scholarship Schemes for Minority Students",
+    "ministry": "Revenue Department, GNCTD",
+    "summary": "Three state-funded scholarship schemes for minority students in Delhi: tuition fee reimbursement for school students (Class I-XII), merit scholarships for college/technical/professional institution students, and Dr. Ambedkar State Awards to toppers from 15 listed institutions.",
+    "benefits": "Three schemes with different benefits: (1) Reimbursement of Tuition Fees SC/ST/OBC/Min. - 100% fee reimbursement for income up to Rs. 60,000/- and 75% reimbursement for income from Rs. 60,001 to Rs. 2,00,000/-; (2) Scholarship/Merit Scholarship Schools SC/ST/OBC/Min. - scholarship amounts ranging from Rs. 5,040 to Rs. 22,320 per year based on course group and hostler/day scholar status; (3) Dr. Ambedkar State Awards to toppers - Rs. 8,000/- in each scheme.",
+    "deadline": null,
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_family_income": 200000,
+      "states": [],
+      "categories": [
+        "SC",
+        "ST",
+        "OBC",
+        "Min"
+      ],
+      "genders": [],
+      "education_levels": [
+        "Class I to XII (Public School)",
+        "College/Technical/Professional Institutions",
+        "15 listed institutions"
+      ],
+      "occupations": [
+        "Student"
+      ],
+      "min_marks_percent": 50,
+      "other": [
+        "Reimbursement of Tuition Fees: Minimum 50% marks and 80% attendance for Class VI-XII in the previous exam.",
+        "Scholarship/Merit Scholarship: Minimum 60% marks in the previous exam.",
+        "Dr. Ambedkar State Awards: Available to toppers from 15 listed institutions.",
+        "For Scholarship/Merit Scholarship: No income limit for SC/ST; Rs. 2 Lakh income limit for OBC/Min."
+      ]
+    },
+    "documents": [
+      "Income Certificate issued by SDM (for Reimbursement of Tuition Fees)",
+      "Self Declaration (for Scholarship/Merit Scholarship Schools)",
+      "Application through School/College or directly to the Deptt. for Welfare of SC/ST/OBC/Min."
+    ],
+    "evidence": {
+      "income": "Income up to Rs. 60,000/-, Income from Rs. 60,001 to Rs. 2,00,000/-",
+      "age": null,
+      "documents": "Income Certificate issued by: SDM",
+      "deadline": null
+    },
+    "source_url": "https://dmnortheast.delhi.gov.in/service/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%95-%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF/",
+    "evidence_verified": {
+      "income": false,
+      "age": false,
+      "documents": false,
+      "deadline": false
+    }
+  }
+]
